@@ -1,0 +1,25 @@
+<svg
+  width="1440"
+  height="2"
+  viewBox="0 0 1440 2"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  className="absolute top-[430px] left-[50%] -translate-x-1/2"
+>
+  <defs>
+    <linearGradient id="lineGradient" x1="0" y1="1" x2="1440" y2="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="transparent" />
+      <stop offset="40%" stop-color="#65DBFF" />
+      <stop offset="55%" stop-color="transparent" />
+      <stop offset="10%" stop-color="transparent" />
+    </linearGradient>
+  </defs>
+  <line
+    x1="0"
+    y1="1.375"
+    x2="1440"
+    y2="1.375"
+    stroke="url(#lineGradient)"
+    stroke-width="1.25"
+  />
+</svg>

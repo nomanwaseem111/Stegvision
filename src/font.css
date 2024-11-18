@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Serotiva';
+    src: url('./fonts/Serotiva-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Serotiva';
+    src: url('./fonts/Serotiva-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Serotiva';
+    src: url('./fonts/Serotiva-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+  }
+  

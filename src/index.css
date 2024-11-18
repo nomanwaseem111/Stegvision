@@ -1,0 +1,51 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Serotiva;
+}
+
+.hero_section_title {
+  text-align: center;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  background: linear-gradient(
+    94deg,
+    #82f5c5 -1.14%,
+    #b4d8e3 27.31%,
+    #c1ffe5 91.66%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #fff;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.main_title_section {
+  text-align: center;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  color: #fff;
+  font-family: Serotiva;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.image_wrapper {
+  margin: 0px 110px;
+}
+
+.total_scan {
+  border: 1.5px solid rgba(152, 229, 255, 0.75);
+}
