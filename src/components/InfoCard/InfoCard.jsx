@@ -27,7 +27,7 @@ function InfoCard() {
       </div>
       <div className="flex flex-col flex-wrap gap-[24px]">
         <div className="flex flex-wrap justify-center items-center gap-[24px]">
-          <div className="max-w-[545px] h-[243px] rounded-[16px] overflow-hidden relative p-6 border border-[#27393E] bg-black">
+          <div className="w-full sm:w-[545px] h-[243px] rounded-[16px] overflow-hidden relative p-6 border border-[#27393E] bg-black">
             <h2 className="text-[18px] leading-[150%] text-primary font-[700]">
               Mailing list sign-ups
             </h2>
@@ -61,7 +61,7 @@ function InfoCard() {
             <Store className="absolute bottom-0 left-[50%] -translate-x-1/2" />
             <Ellipse23 className="absolute object-cover w-full bottom-0 left-[50%] -translate-x-1/2" />
           </div>
-          <div className="max-w-[545px] h-[243px] rounded-[16px] overflow-hidden relative p-6 border border-[#27393E] bg-black">
+          <div className="w-full sm:w-[545px] h-[243px] rounded-[16px] overflow-hidden relative p-6 border border-[#27393E] bg-black">
             <h2 className="text-[18px] leading-[150%] text-primary font-[700]">
               Upselling Opportunities{" "}
             </h2>

@@ -59,7 +59,7 @@ function FeaturesOverview() {
           <Ellipse className="absolute -bottom-6 -left-6" />
         </div>
       </div>
-      <div className="max-w-[570px] flex flex-col gap-y-[24px]">
+      <div className="w-full sm:w-[570px] flex flex-col gap-y-[24px]">
         <div className="w-full min-h-[258px] bg-black overflow-hidden relative border border-[#27393E] rounded-[16px] p-6">
           <Ellipse1 className="absolute top-0 left-0" />
           <h2 className="text-[18px] leading-[150%] text-primary font-[700]">
